@@ -1,0 +1,13 @@
+bulletstorm_2d/  
+│  
+├── assets/  
+│   ├── fonts/  
+│   ├── sounds/  
+│   └── images/  
+├── lang/  
+│   ├── pl.json    # Polski  
+│   ├── en.json    # Angielski  
+│   ├── de.json    # Niemiecki  
+│   ├── uk.json    # Ukraiński  
+│   └── sk.json    # Słowacki  
+└── main.py  

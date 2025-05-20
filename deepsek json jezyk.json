@@ -1,0 +1,7 @@
+// lang/uk.json
+{
+    "game_title": "BulletStorm 2D",
+    "play_button": "ГРАТИ",
+    "settings": "НАЛАШТУВАННЯ",
+    "exit": "ВИХІД"
+}
